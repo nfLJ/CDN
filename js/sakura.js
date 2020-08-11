@@ -132,7 +132,7 @@ function startSakura() {
         sakuraList.update();
         sakuraList.draw(cxt);
         //stop = requestAnimationFrame(arguments.callee);
-		stop = requestAnimationFrame(tmp);
+        stop = requestAnimationFrame(tmp);
     })
 }
 window.onresize = function () {
