@@ -56,19 +56,19 @@
         transform: translate(0, 0.5px) rotate(1.5deg);
     }
 }
-
+/* 
 @font-face{
     font-family: 'Muyao-Softbrush';
     src: url('../box/font/Muyao-Softbrush.ttf');
 }
 
-/** 表示全局使用，如果不想全局使用不要添加该段 */
+* 表示全局使用，如果不想全局使用不要添加该段
 body{
     font-family: 'Muyao-Softbrush';
 }
 
 
-/* 可以局部使用，建议添加 */
+可以局部使用，建议添加
 .diyFont{
     font-family: 'Muyao-Softbrush';
-}
+} */
